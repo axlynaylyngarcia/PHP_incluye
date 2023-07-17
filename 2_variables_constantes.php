@@ -22,7 +22,7 @@
         
         /*6. tambien se debe evitar el error de empezar una variable por un numero. Ejemplo: $35var = 45 es un error */
         
-        /*En PHP no es necesario especificar el tipo de variable, pero si debemos saber cuando utilizar las comillas a la hora de definirlas, ya que su uso indicaria que se esta hablando de una cadena Ejemplo: 7,$nombre = "nestor" */
+        /*En PHP no es necesario especificar el tipo de variable, pero si debemos saber cuando utilizar las comillas a la hora de definirlas, ya que su uso indicaria que se esta hablando de una cadena Ejemplo: 7,$nombre = "axlyn" */
         
         /*podemos mostrar las variables en pantalla de varias maneras: una de ellas puede ser utilizando la opción echo(); otrapuede ser mediante print(); */
 
